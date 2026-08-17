@@ -7,9 +7,9 @@ I'm a student at Fayettevlle Technical Community College enrolled in the Compute
 - Python 
 - C++
 - Java
-- 
+  
 ## How to reach me: 
 - Right here on Github!
 - anthony.abraham.dev@gmail.com
-- 
+  
 ## Fun fact: I am an Afro-Cuban percussionist and regular handy man.  
